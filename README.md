@@ -27,7 +27,7 @@ Analisar o comportamento dos clientes e determinar quais planos pré-pagos da Me
 - Construção de histogramas;
 - Descrição das distribuições.
 
-## Teste de Hipóteses:
+## Teste de Hipóteses
 
 - Hipótese nula: A receita média dos usuários dos planos Ultimate e Surf são iguais.
 - Hipótese alternativa: A receita média dos usuários dos planos Ultimate e Surf são diferentes.
